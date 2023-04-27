@@ -124,7 +124,7 @@ USE_TZ = True
 
 # EMAIL CONFIG
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_FROM_USER = 'qwertyforwork@gmail.com'
+EMAIL_FROM_USER = 'praveenadurga54@gmail.com'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER ='praveenadurga54@gmail.com'
 EMAIL_HOST_PASSWORD = 'ienltydyujjglxzd'
